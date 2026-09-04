@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `5m` sample updated in sync
 
-> **Sample on GitHub** · `EURJPY_5m.csv` (11,091 rows, `2026-07-09` -> `2026-09-02`, 1.05 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/eurjpy)** — **1,847,492** `5m` rows (full `1m`: 9,228,234), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
+> **Sample on GitHub** · `EURJPY_5m.csv` (11,088 rows, `2026-07-09` -> `2026-09-02`, 1.05 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/eurjpy)** — **1,847,492** `5m` rows (full `1m`: 9,199,932), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Euro / Japanese Yen · Forex | Euro / Japanese Yen · Forex |
 | Timeframes | `5m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 5m rows | 11,091 | **1,847,492** |
+| 5m rows | 11,088 | **1,847,492** |
 | Size | 1.05 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/eurjpy) |
 | Period | `2026-07-09` -> `2026-09-02` | `2001-11-28` -> `2026-09-02` |
 | File | `EURJPY_5m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/eurjpy) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`EURJPY_5m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09T13:50:00+00:00 | 186.157 | 186.179 | 186.14 | 186.165 | 1785 |
-| 2026-07-09T13:55:00+00:00 | 186.165 | 186.195 | 186.153 | 186.195 | 1263 |
-| 2026-07-09T14:00:00+00:00 | 186.195 | 186.251 | 186.178 | 186.242 | 2133 |
 | 2026-07-09T14:05:00+00:00 | 186.242 | 186.259 | 186.225 | 186.244 | 2076 |
 | 2026-07-09T14:10:00+00:00 | 186.244 | 186.307 | 186.236 | 186.266 | 1961 |
+| 2026-07-09T14:15:00+00:00 | 186.266 | 186.269 | 186.189 | 186.207 | 1900 |
+| 2026-07-09T14:20:00+00:00 | 186.207 | 186.246 | 186.206 | 186.235 | 1568 |
+| 2026-07-09T14:25:00+00:00 | 186.235 | 186.248 | 186.204 | 186.23 | 1436 |
 
 **Last rows**
 
